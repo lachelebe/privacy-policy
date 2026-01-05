@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<title>Datenschutzerklärung – Landingpage „lache & lebe“</title>
+<style>
+body {
+font-family: Arial, sans-serif;
+max-width: 800px;
+margin: auto;
+padding: 20px;
+line-height: 1.6;
+}
+h1, h2 {
+color: #333;
+}
+</style>
+</head>
+<body>
+
+<h1>Datenschutzerklärung<br>für die Landingpage „lache & lebe“</h1>
+
+<p>Der Schutz Ihrer personenbezogenen Daten ist mir wichtig. Auf dieser Seite informiere ich Sie darüber, welche Daten im Rahmen der Anmeldung über diese Landingpage verarbeitet werden und zu welchem Zweck.</p>
+
+<h2>1. Verantwortliche Stelle</h2>
+<p><strong>Andrea Hopf</strong><br>
+E-Mail: <a href="mailto:lache_lebe@web.de">lache_lebe@web.de</a></p>
+
+<h2>2. Erhobene Daten</h2>
+<p>Über das Formular dieser Landingpage werden – je nach Eingabe – folgende Daten verarbeitet:</p>
+
+<ul>
+<li>E-Mail-Adresse</li>
+<li>optional Vorname/Name</li>
+<li>gewählte Inhalte bzw. Interessen (z. B. Meditationsreihen, Kinder-Meditationen, Informationen zur Nährstoffbalance)</li>
+</ul>
+
+<p>Weitere personenbezogene Daten werden nicht erhoben.</p>
+
+<h2>3. Zweck der Datenverarbeitung</h2>
+<p>Die Verarbeitung Ihrer Daten erfolgt ausschließlich zu folgenden Zwecken:</p>
+
+<ul>
+<li>Zusendung der ausgewählten Meditationen und Inhalte per E-Mail</li>
+<li>Versand begleitender Informationen zu den gewählten Themen</li>
+<li>Versand ggf. passender ergänzender Angebote</li>
+</ul>
+
+<p>Eine Weitergabe zu Werbezwecken an Dritte findet nicht statt.</p>
+
+<h2>4. Rechtsgrundlage</h2>
+<p>Die Verarbeitung erfolgt auf Grundlage Ihrer Einwilligung gemäß Art. 6 Abs. 1 lit. a DSGVO, die Sie durch Absenden des Formulars und Bestätigung im Double-Opt-in-Verfahren erteilen.</p>
+
+<h2>5. Double-Opt-In-Verfahren</h2>
+<p>Nach der Anmeldung erhalten Sie eine Bestätigungs-E-Mail. Erst nach Anklicken des Bestätigungslinks wird Ihre Anmeldung aktiviert. Wird die Anmeldung nicht bestätigt, werden die Daten automatisch gelöscht.</p>
+
+<h2>6. E-Mail-Versand über Dienstleister</h2>
+<p>Der Versand der E-Mails erfolgt über den Anbieter:</p>
+
+<p><strong>MailerLite</strong><br>
+UAB „MailerLite“<br>
+J. Basanavičiaus g. 15, LT-03108 Vilnius, Litauen</p>
+
+<p>Mit MailerLite besteht ein Vertrag zur Auftragsverarbeitung gemäß Art. 28 DSGVO. MailerLite speichert Ihre E-Mail-Adresse und die gewählten Interessen, um den Versand technisch durchführen zu können.</p>
+
+<p>Weitere Informationen zum Datenschutz von MailerLite finden Sie unter:<br>
+<a href="https://www.mailerlite.com/legal/privacy-policy" target="_blank">https://www.mailerlite.com/legal/privacy-policy</a></p>
+
+<h2>7. Speicherdauer</h2>
+<p>Ihre Daten werden gespeichert, solange Sie für den Erhalt von E-Mails angemeldet sind oder bis Sie Ihre Einwilligung widerrufen. Nach Abmeldung werden Ihre Daten gelöscht, sofern keine gesetzlichen Aufbewahrungspflichten bestehen.</p>
+
+<h2>8. Widerruf der Einwilligung / Abmeldung</h2>
+<p>Sie können Ihre Einwilligung jederzeit mit Wirkung für die Zukunft widerrufen. Dies ist möglich über den Abmeldelink in jeder E-Mail oder per Nachricht an:</p>
+<p><a href="mailto:lache_lebe@web.de">lache_lebe@web.de</a></p>
+
+<h2>9. Weitergabe an Dritte</h2>
+<p>Eine Weitergabe Ihrer Daten an Dritte erfolgt nicht, außer an MailerLite als technischen Versanddienstleister (siehe Punkt 6). Es findet kein Verkauf von Daten, kein Tracking und keine Profilbildung statt.</p>
+
+<h2>10. Ihre Rechte</h2>
+<p>Sie haben das Recht:</p>
+
+<ul>
+<li>Auskunft über die zu Ihrer Person gespeicherten Daten zu erhalten,</li>
+<li>Berichtigung unrichtiger Daten zu verlangen,</li>
+<li>Löschung Ihrer Daten zu verlangen,</li>
+<li>die Einschränkung der Verarbeitung zu verlangen,</li>
+<li>der Verarbeitung zu widersprechen,</li>
+<li>Datenübertragbarkeit zu verlangen.</li>
+</ul>
+
+<p>Hierzu genügt eine E-Mail an: <a href="mailto:lache_lebe@web.de">lache_lebe@web.de</a></p>
+
+<h2>11. Cookies und Tracking</h2>
+<p>Auf dieser Landingpage werden keine Cookies zu Analyse- oder Trackingzwecken eingesetzt. Es erfolgt kein Einsatz von Google Analytics oder vergleichbaren Diensten.</p>
+
+<h2>12. Änderung dieser Datenschutzerklärung</h2>
+<p>Ich behalte mir vor, diese Datenschutzerklärung zukünftig anzupassen, sofern gesetzliche oder technische Änderungen dies erforderlich machen.</p>
+
+<p><strong>Stand: Januar 2026</strong></p>
+
+</body>
+</html>
